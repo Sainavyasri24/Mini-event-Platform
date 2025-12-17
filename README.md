@@ -103,3 +103,6 @@ If your root `package.json` has a concurrent script:
 ```bash
 # From the root directory
 npm run dev
+``` 
+### 📄 License
+This project is licensed under the MIT License.
